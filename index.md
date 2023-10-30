@@ -4,7 +4,7 @@ layout: default
 
 # Kódok
 
-[Transformer architektúra felépítése és betanítása](./code/section-12-train-transfomer).
+[Transformer architektúra felépítése és betanítása](./code/section-12-train-transfomer.ipynb).
 
 # Transformer
 
