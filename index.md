@@ -9,3 +9,8 @@ layout: default
 # Transformer
 
 ![Transformer](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
+
+# Kapcsolat
+
+- Lakatos Róbert
+- `lakatos.robert@inf.unideb.hu`
