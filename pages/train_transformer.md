@@ -563,9 +563,7 @@ transformer.summary()
 
 ### Training
 
-\begin{align}
-\Large{lrate = d_{model}^{-0.5} * \min(step{\_}num^{-0.5}, step{\_}num \cdot warmup{\_}steps^{-1.5})}
-\end{align}
+![lrate](../assets/images/lrate.png)
 
 ```python
 class CustomSchedule(tf.keras.optimizers.schedules.LearningRateSchedule):
