@@ -5,6 +5,7 @@ layout: default
 # Kódok
 
 [Transformer architektúra felépítése és betanítása](./pages/train_transformer.md)
+[GPT](./pages/gpt.md)
 
 # Transformer
 
