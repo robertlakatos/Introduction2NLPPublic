@@ -56,7 +56,7 @@ Upon successful completion of the subject, students will be able to implement va
 3. [Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.](https://arxiv.org/pdf/1510.00726.pdf)
 4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 5. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
-6. [MIT Introduction toDeep Learning](http://introtodeeplearning.com/)
+6. [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 
 ## Key Words
 
