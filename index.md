@@ -40,12 +40,12 @@ Upon successful completion of the subject, students will be able to implement va
 
 ## Usefull Links
 
-- ![Huggingface](https://huggingface.co/)
-- ![Keras](https://keras.io/)
-- ![Tensorflow](https://www.tensorflow.org/)
-- ![Pytorch](https://pytorch.org/)
-- ![Pyton](https://www.python.org/)
-- ![Google Colab][https://colab.google/]
+- [Huggingface](https://huggingface.co/)
+- [Keras](https://keras.io/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Pytorch](https://pytorch.org/)
+- [Pyton](https://www.python.org/)
+- [Google Colab](https://colab.google/)
 
 ## Recommended Literatures
 
@@ -57,9 +57,9 @@ Upon successful completion of the subject, students will be able to implement va
 
 # Usefull Publications
 
-[1] ![Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+[1] [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-[2] ![Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+[2] [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 # Kapcsolat
 
