@@ -2,18 +2,20 @@
 layout: default
 ---
 
-# Codes
+# Contact
+
+- Lakatos Róbert
+- `lakatos.robert@inf.unideb.hu`
+
+# Labor Codes
+
+![Transformer](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
 
 [Training in Transformer Architecture](./pages/train_transformer.md)
 
 [Generative Pre-trained Transformer (GPT)](./pages/gpt.md)
 
 [Recommender System](./pages/recommedner_system.md)
-
-# Transformer
-
-![Transformer](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
-
 
 # Labor Information
 
@@ -54,6 +56,44 @@ Upon successful completion of the subject, students will be able to implement va
 3. [Goldberg, Yoav. "A primer on neural network models for natural language processing." Journal of Artificial Intelligence Research 57 (2016): 345-420.](https://arxiv.org/pdf/1510.00726.pdf)
 4. [Francois Chollet. "Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
 5. [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter0/1?fw=pt)
+6. [MIT Introduction toDeep Learning](http://introtodeeplearning.com/)
+
+## Key Words
+
+1. Tokenization 
+1.1 Byte-Pair Encoding (BPE)
+1.2 Byte-level BPE
+1.3 WordPiece
+1.4 Unigram
+1.5 SentencePiece
+2. Embbeding
+2.1 Skip-Gram
+2.2 CBOW
+2.3 GLOVE
+2.4 Word2Vec
+3. Position Embedding
+4. (Multi-Head) Attention
+5. Neural Network (Feed Foward layer)
+6. Normalization
+7. Transoformer
+8. Pre-Trained
+9. Large Language Model
+10. NLP Tasks
+10.1 Summarization
+10.2 Translate
+10.3 Generation
+10.4 Q&A
+10.5 Named Entity Recognition
+10.6 Sentiment analysis
+11. Multimodal architectures
+12. Huggingface
+13. Keras
+14. Tensorflow
+15. Pytorch
+16. Python
+17. Pipline
+18. Notebook
+19. Google Colab
 
 # Usefull Publications
 
@@ -61,7 +101,8 @@ Upon successful completion of the subject, students will be able to implement va
 
 [2] [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-# Kapcsolat
+[3] [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
-- Lakatos Róbert
-- `lakatos.robert@inf.unideb.hu`
+[4] [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781)
+
+[5] [Global Vectors for Node Representations](https://arxiv.org/pdf/1902.11004.pdf)
