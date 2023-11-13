@@ -63,6 +63,7 @@ Upon successful completion of the subject, students will be able to implement va
 1. Tokenization 
     - Byte-Pair Encoding (BPE)
     - Byte-level BPE
+    - WordLevel
     - WordPiece
     - Unigram
     - SentencePiece
