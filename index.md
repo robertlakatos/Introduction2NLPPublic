@@ -61,16 +61,16 @@ Upon successful completion of the subject, students will be able to implement va
 ## Key Words
 
 1. Tokenization 
-    1.1 Byte-Pair Encoding (BPE)
-    1.2 Byte-level BPE
-    1.3 WordPiece
-    1.4 Unigram
-    1.5 SentencePiece
+    - Byte-Pair Encoding (BPE)
+    - Byte-level BPE
+    - WordPiece
+    - Unigram
+    - SentencePiece
 2. Embbeding
-    2.1 Skip-Gram
-    2.2 CBOW
-    2.3 GLOVE
-    2.4 Word2Vec
+    - Skip-Gram
+    - CBOW
+    - GLOVE
+    - Word2Vec
 3. Position Embedding
 4. (Multi-Head) Attention
 5. Neural Network (Feed Foward layer)
@@ -79,12 +79,12 @@ Upon successful completion of the subject, students will be able to implement va
 8. Pre-Trained
 9. Large Language Model
 10. NLP Tasks
-    10.1 Summarization
-    10.2 Translate
-    10.3 Generation
-    10.4 Q&A
-    10.5 Named Entity Recognition
-    10.6 Sentiment analysis
+    - Summarization
+    - Translate
+    - Generation
+    - Q&A
+    - Named Entity Recognition
+    - Sentiment analysis
 11. Multimodal architectures
 12. Huggingface
 13. Keras
