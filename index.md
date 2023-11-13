@@ -49,7 +49,7 @@ Upon successful completion of the subject, students will be able to implement va
 - [Pyton](https://www.python.org/)
 - [Google Colab](https://colab.google/)
 
-## Recommended Literatures
+## Recommended Literatures and Courses
 
 1. [Jurafsky, Daniel, and James H. Martin. "Speech and language processing (draft)." Chapter A: Hidden Markov Models (Draft of September 11, 2018). Retrieved March 19 (2018): 2019.](https://ms.b-ok.xyz/book/3560643/4a6ab2)
 2. [Eisenstein, Jacob. "Introduction to natural language processing." MIT press, 2019.](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/)
