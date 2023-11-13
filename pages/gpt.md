@@ -8,7 +8,7 @@ layout: default
 
 Ábra 1: Transformer architektúra. Forrás: [wikipedia](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer#/media/File:Full_GPT_architecture.png).
 
-## GPT méretei
+## Size of GPT
 
 | Model | Architecture | Parameter count | Training data | Release date | Training cost
 | --- | --- | --- | --- | --- | --- |
@@ -18,12 +18,12 @@ GPT-3 | GPT-2, but with modification to allow larger scaling | 175 billion | 499
 GPT-3.5 | Undisclosed | 175 billion | Undisclosed | March 15, 2022 | Undisclosed
 GPT-4 | Also trained with both text prediction and RLHF; accepts both text and images as input. Further details are not public. | Undisclosed. Estimated 1.7 trillion | Undisclosed | March 14, 2023 | Undisclosed. Estimated 2.1e25 FLOP.
 
-## Emberi agy méretei
+## Size of Human Brain
 
 - 86 milliárd neuron van az agyban.
 - Minden neuronnak átlagosan körülbelül 7000 szinaptikus kapcsolata van más neuronokkal. Ez a szinapszisok számát 600 milliárd környékére teszi. Kisgyermekeknél a szinaptikus metszés komoly megkezdése előtt a becsült szám eléri az 1 kvadrilliót.
 
-## Keras példa
+## Keras sample
 
 Ez a példa bemutatja, hogyan valósíthat meg egy autoregresszív nyelvi modellt a GPT-modell miniatűr változatával. A modell egyetlen Transformer blokkból áll, amelynek figyelemrétegében oksági maszkolás található. Az IMDB hangulatosztályozási adatkészletének szövegét használjuk a képzéshez, és új filmkritikákat generálunk egy adott prompthoz. Ha ezt a szkriptet saját adatkészletével használja, győződjön meg arról, hogy legalább 1 millió szóból áll.
 
@@ -42,9 +42,9 @@ from tensorflow.keras.layers import TextVectorization
 ```python
 def causal_attention_mask(batch_size, n_dest, n_src, dtype):
     """
-    Maszkolja el a ponttermékmátrix felső felét önfigyelembe. 
-    Ez megakadályozza az információáramlást a jövőbeli tokenekről az aktuális tokenre. 
-    1 az alsó háromszögben, a jobb alsó sarokból számolva.
+    Mask the top half of the dot product matrix to self. 
+    This prevents the flow of information from future tokens to the current token. 
+    1 in the lower triangle, counting from the lower right corner.
     """
     i = tf.range(n_dest)[:, None]
     j = tf.range(n_src)
@@ -83,7 +83,7 @@ class TransformerBlock(layers.Layer):
         return self.layernorm2(out1 + ffn_output)
 ```
 
-## Beágyazó réteg
+## Token and Position Embedding layer
 
 ```python
 class TokenAndPositionEmbedding(layers.Layer):
@@ -101,7 +101,7 @@ class TokenAndPositionEmbedding(layers.Layer):
 
 ```
 
-## Minatűr GPT modell
+## Smal GPT model
 
 ```python
 vocab_size = 20000  # Only consider the top 20k words
@@ -127,7 +127,7 @@ def create_model():
 
 ```
 
-## Adatok
+## Data
 
 ```python
 !curl -O https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
