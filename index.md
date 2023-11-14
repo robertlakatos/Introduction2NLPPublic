@@ -11,18 +11,26 @@ layout: default
 
 ![Transformer](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
 
-[Training in Transformer Architecture](./pages/train_transformer.md)
+### [Python Basics](./pages/python.md)
 
-[Generative Pre-trained Transformer (GPT)](./pages/gpt.md)
+### [Numpy and Matplotlib](./pages/numpy-and-matplotlib.md)
 
-[Recommender System](./pages/recommedner_system.md)
+### [Pandas Intro](./pages/pandas.md)
+
+### [Pipeline](./pages/pipeline.md)
+
+### [Training in Transformer Architecture](./pages/train_transformer.md)
+
+### [Generative Pre-trained Transformer (GPT)](./pages/gpt.md)
+
+### [Recommender System](./pages/recommedner_system.md)
 
 # Labor Information
 
 ## Requirements
 
 - Fewer absences than allowed. Active participation in classes.
-- Organizing into teams (4 people).
+- Organizing into teams (3-4 people).
 - Creating a working application and presenting it in the form of a video using the solutions and models learned in class.
      - It must be uploaded to Github and shared.
      - Maximum length of video is 5-10 minutes.
