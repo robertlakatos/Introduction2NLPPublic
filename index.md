@@ -11,19 +11,35 @@ layout: default
 
 ![Transformer](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
 
-### [Python Basics](./pages/python.md)
+### [I.] [Python Basics](./pages/python.md)
 
-### [Numpy and Matplotlib](./pages/numpy-and-matplotlib.md)
+### [I.] [Numpy and Matplotlib](./pages/numpy-and-matplotlib.md)
 
-### [Pandas Intro](./pages/pandas.md)
+### [I.] [Pandas Intro](./pages/pandas.md)
 
-### [Pipeline](./pages/pipeline.md)
+### [II.] [Pipeline](./pages/pipeline.md)
 
-### [Training in Transformer Architecture](./pages/train_transformer.md)
+### [III.] [Train](./pages/train.md)
 
-### [Generative Pre-trained Transformer (GPT)](./pages/gpt.md)
+### [IV.] [Tokenization](./pages/tokenization.md)
 
-### [Recommender System](./pages/recommedner_system.md)
+### [V.] [Embedding](./pages/embedding.md)
+
+### [VI.] [Pos Embedding](./pages/pos-embedding.md)
+
+### [VII.] [Attention I.](./pages/attention-I.md)
+
+### [VIII.] [Attention II.](./pages/attention-II.md)
+
+### [IX.] [Feed Foward Layer](./pages/feed-foward.md)
+
+### [X.] [Training in Transformer Architecture](./pages/train-transformer.md)
+
+### [XI.] [Generative Pre-trained Transformer (GPT)](./pages/gpt.md)
+
+### [XII.] [Recommender System](./pages/recommedner-system.md)
+
+### [XIII.] [Topic Modelling](./pages/topic-modelling.md)
 
 # Labor Information
 
