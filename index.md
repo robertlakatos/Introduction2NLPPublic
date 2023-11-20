@@ -11,35 +11,35 @@ layout: default
 
 ![Transformer](https://www.tensorflow.org/images/tutorials/transformer/transformer.png)
 
-### [I.] [Python Basics](./pages/python.md)
+### I.    [Python Basics](./pages/python.md)
 
-### [I.] [Numpy and Matplotlib](./pages/numpy-and-matplotlib.md)
+### I.    [Numpy and Matplotlib](./pages/numpy-and-matplotlib.md)
 
-### [I.] [Pandas Intro](./pages/pandas.md)
+### I.    [Pandas Intro](./pages/pandas.md)
 
-### [II.] [Pipeline](./pages/pipeline.md)
+### II.   [Pipeline](./pages/pipeline.md)
 
-### [III.] [Train](./pages/train.md)
+### III.  [Train](./pages/train.md)
 
-### [IV.] [Tokenization](./pages/tokenization.md)
+### IV.   [Tokenization](./pages/tokenization.md)
 
-### [V.] [Embedding](./pages/embedding.md)
+### V.    [Embedding](./pages/embedding.md)
 
-### [VI.] [Pos Embedding](./pages/pos-embedding.md)
+### VI.   [Pos Embedding](./pages/pos-embedding.md)
 
-### [VII.] [Attention I.](./pages/attention-I.md)
+### VII.  [Attention I.](./pages/attention-I.md)
 
-### [VIII.] [Attention II.](./pages/attention-II.md)
+### VIII. [Attention II.](./pages/attention-II.md)
 
-### [IX.] [Feed Foward Layer](./pages/feed-foward.md)
+### IX.   [Feed Foward Layer](./pages/feed-foward.md)
 
-### [X.] [Training in Transformer Architecture](./pages/train-transformer.md)
+### X.    [Training in Transformer Architecture](./pages/train-transformer.md)
 
-### [XI.] [Generative Pre-trained Transformer (GPT)](./pages/gpt.md)
+### XI.   [Generative Pre-trained Transformer (GPT)](./pages/gpt.md)
 
-### [XII.] [Recommender System](./pages/recommedner-system.md)
+### XII.  [Recommender System](./pages/recommedner-system.md)
 
-### [XIII.] [Topic Modelling](./pages/topic-modelling.md)
+### XIII. [Topic Modelling](./pages/topic-modelling.md)
 
 # Labor Information
 
