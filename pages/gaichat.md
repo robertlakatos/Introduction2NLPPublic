@@ -5,10 +5,6 @@
 ```
 
 ```python
-!pip install transformers torch accelerate
-```
-
-```python
 from huggingface_hub import notebook_login
 
 notebook_login()
