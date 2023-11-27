@@ -41,6 +41,10 @@ layout: default
 
 ### XIII. [Topic Modelling](./pages/topic-modelling.md)
 
+### XIV. [Multimodal](./pages/multimodal.md)
+
+### XV. [Generativ AI - Chat modell](./pages/gaichat.md)
+
 # Labor Information
 
 ## Requirements
