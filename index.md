@@ -43,7 +43,7 @@ layout: default
 
 ### XIV. [Multimodal](./pages/multimodal.md)
 
-### XV. [Generativ AI - Chat modell](./pages/gaichat.md)
+### XIV. [Generativ AI - Chat modell](./pages/gaichat.md)
 
 # Labor Information
 
